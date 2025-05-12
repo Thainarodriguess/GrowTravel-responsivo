@@ -17,7 +17,7 @@ O **Growtravel** é uma simulação de uma página de viagens, com layout adapt�
 
 ## 🌐 Acesse o projeto
 
-- 🔗 **Deploy (Vercel):** ([https://growtravel.vercel.app](https://grow-travel-responsivo.vercel.app/))
+- 🔗 **Deploy :** ([https://growtravel.vercel.app](https://grow-travel-responsivo.vercel.app/))
 
 ## 📁 Como visualizar localmente
 
@@ -26,7 +26,7 @@ O **Growtravel** é uma simulação de uma página de viagens, com layout adapt�
 git clone (https://github.com/Thainarodriguess/GrowTravel-responsivo.git)
 
 # Acesse a pasta do projeto
-cd growtravelresponsivo
+cd growtravel-responsivo
 
 # Abra o arquivo index.html no navegador
 
